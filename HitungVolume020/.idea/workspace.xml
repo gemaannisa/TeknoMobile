@@ -6,7 +6,16 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5a6b7bb-091f-4417-b55c-577ffa65096d" name="Default Changelist" comment="" />
+    <list default="true" id="c5a6b7bb-091f-4417-b55c-577ffa65096d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyIntentApp020/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyIntentApp020/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyIntentApp020/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyIntentApp020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyIntentApp020/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +41,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ichoHbXTwf6oJgKIXGuGLElCjx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -40,7 +53,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyFlexibleFragment020" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyIntentApp020" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager">
@@ -129,10 +143,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="181" y="171" key="AndroidCreateXmlResourceDialog/0.0.1280.680@0.0.1280.680" timestamp="1602227364125" />
-    <state x="196" y="95" key="FileChooserDialogImpl" timestamp="1602561628180">
+    <state x="196" y="95" key="FileChooserDialogImpl" timestamp="1602648636262">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="196" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602561628180" />
+    <state x="196" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602648636262" />
     <state x="57" y="144" key="com.intellij.ide.util.TipDialog" timestamp="1602314024121">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

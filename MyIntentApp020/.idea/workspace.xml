@@ -6,7 +6,45 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5efac6c9-0d0d-40b3-8d4b-9408f6cbaab5" name="Default Changelist" comment="" />
+    <list default="true" id="5efac6c9-0d0d-40b3-8d4b-9408f6cbaab5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HitungVolume020/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/java/com/example/mylistview020/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/java/com/example/mylistview020/HeroAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/._asset_pahlawan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._ahmad_dahlan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._ahmad_yani.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._bung_tomo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._gatot_subroto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._ki_hadjar_dewantara.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._mohammad_hatta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._sudirman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._sukarno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._supomo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._tan_malaka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/layout/item_hero.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HitungVolume020/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HitungVolume020/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HitungVolume020/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HitungVolume020/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HitungVolume020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +71,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ig1Rnecg1C0cryWUcfQrnArPUP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -43,6 +85,8 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="2561bac" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-10T10:47:09.480Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -150,9 +194,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="455" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.680@0.0.1280.680" timestamp="1602326418969" />
-    <state x="24" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1602387598733">
+    <state x="24" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1602650016849">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="24" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1602387598733" />
+    <state x="24" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1602650016849" />
   </component>
 </project>

@@ -75,35 +75,40 @@
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginRight="@dimen/activity_horizontal_margin"
             android:layout_marginBottom="@dimen/activity_vertical_margin">
+
             <TableRow
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="8dp">
+
                 <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:textSize="14sp"
+                    android:layout_width="210dp"
+                    android:layout_height="30dp"
                     android:layout_marginRight="@dimen/activity_vertical_margin"
-                    android:text="@string/display"/>
+                    android:layout_weight="1"
+                    android:text="@string/display"
+                    android:textSize="14sp" />
+
                 <TextView
-                    android:layout_width="match_parent"
+                    android:layout_width="179dp"
                     android:layout_height="wrap_content"
-                    android:textSize="14sp"
                     android:layout_weight="1"
                     android:text="@string/content_specs_display"
-                    android:textColor="@android:color/black"/>
+                    android:textColor="@android:color/black"
+                    android:textSize="14sp" />
             </TableRow>
             <TableRow
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="8dp">
+
                 <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:textSize="14sp"
-                    android:layout_weight="1"
+                    android:layout_width="210dp"
+                    android:layout_height="30dp"
                     android:layout_marginRight="@dimen/activity_vertical_margin"
-                    android:text="@string/battery"/>
+                    android:layout_weight="1"
+                    android:text="@string/battery"
+                    android:textSize="14sp" />
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -145,7 +150,9 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
             android:text="@string/beli"
+            android:textColor="@android:color/white"
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginRight="@dimen/activity_horizontal_margin"
             android:layout_marginBottom="@dimen/activity_vertical_margin"/>

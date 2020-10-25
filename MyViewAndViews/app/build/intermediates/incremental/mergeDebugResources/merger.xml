@@ -2833,18 +2833,17 @@
         We attended Google’s London UK event, mirroring the main one
         taking place in San Francisco, US, where the firm unwrapped the
         new Android 7.1 Nougat devices which will apparently usurp Google’s long-standing
-        Nexus series.</string><string name="content_specs_display">5.0 inches\n
-        FHD AMOLED at 441ppi\n
-        2.5D Corning® Gorilla® Glass 4</string><string name="content_specs_size">5.6 x 2.7 x 0.2 ~ 0.3
-        inches 143.8 x 69.5 x 7.3 ~ 8.5 mm</string><string name="content_specs_battery">2,770 mAh battery\n
-        Standby time (LTE): up to 19 days\n
-        Talk time (3g/WCDMA): up to 26 hours\n
-        Internet use time (Wi-Fi): up to 13 hours\n
-        Internet use time (LTE): up to 13 hours\n
-        Video playback: up to 13 hours\n
-        Audio playback (via headset): up to 110 hours\n
-        Fast charging: up to 7 hours of use from only 15 minutes of char
-        ging</string><string name="stok">Stock hanya 5 buah</string><string name="context_text">Context Text</string><string name="spec">Spesifikasi</string><string name="display">Display</string><string name="battery">Battery</string><string name="dijual">Dijual oleh</string><string name="narenda_wicaksono">Narenda Wicaksono</string><string name="beli">Beli</string><string name="_735">$735</string></file><file path="C:\Users\gemaa\AndroidStudioProjects\MyViewAndViews\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        Nexus series.</string><string name="content_specs_display">\t5.0 inches\n
+        \tFHD AMOLED at 441ppi\n
+        \t2.5D Corning® Gorilla® Glass 4</string><string name="content_specs_size">5.6 x 2.7 x 0.2 ~ 0.3
+        inches 143.8 x 69.5 x 7.3 ~ 8.5 mm</string><string name="content_specs_battery">\t2,770 mAh battery\n
+        \tStandby time (LTE): up to 19 days\n
+        \tTalk time (3g/WCDMA): up to 26 hours\n
+        \tInternet use time (Wi-Fi): up to 13 hours\n
+        \tInternet use time (LTE): up to 13 hours\n
+        \tVideo playback: up to 13 hours\n
+        \tAudio playback (via headset): up to 110\n \thours\n
+        \tFast charging: up to 7 hours of use from only 15 minutes of charging</string><string name="stok">Stock hanya 5 buah</string><string name="context_text">Context Text</string><string name="spec">Spesifikasi</string><string name="display">Display</string><string name="battery">Battery</string><string name="dijual">Dijual oleh</string><string name="narenda_wicaksono">Narenda Wicaksono</string><string name="beli">Beli</string><string name="_735">$735</string></file><file path="C:\Users\gemaa\AndroidStudioProjects\MyViewAndViews\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="Article_Title">BTS</string>
+    <string name="article_subtitle">(Hangul: 방탄소년단; RR: Bangtan Sonyeondan), Bangtan Boys, Beyond the Scene</string>
+    <string name="article_text">
+        <b>BTS</b> adalah sebuah boy band beranggotakan tujuh orang asal Korea Selatan yang dibentuk oleh <i>Big Hit Entertainment</i>.\n\n
+        Pada tanggal 12 Juni 2013, mereka membawakan lagu berjudul "No More Dream" dari album awal mereka 2 Cool 4 Skool yang mendukung debut
+        mereka pada tanggal 13 Juni 2013. Mereka memenangkan penghargaan New Artist of the Year atas lagu "No More Dream", termasuk di Melon
+        Music Awards dan Golden Disc Awards 2013 dan Seoul Music Awards 2014. Mereka semakin menarik perhatian dengan album Dark and Wild (2014),
+        The Most Beautiful Moment in Life, Part 2 (2015) dan The Most Beautiful Moment in Life: Young Forever (2016), dengan dua album terakhir
+        ini memasuki Billboard 200 AS. The Most Beautiful Moment in Life: Young Forever memenangkan penghargaan Album of the Year di Melon Music Awards 2016.\n\n
+        For more information, see at https://id.wikipedia.org/wiki/BTS
+    </string>
+    <string name="add_comment">Add Comment</string>
+</resources>

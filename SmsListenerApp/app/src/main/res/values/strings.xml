@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmsListenerApp</string>
+    <string name="text">Ini Aplikasi Sms Receiver</string>
+    <string name="content">Ayo jangan nangis dulu, kerjain aja :)</string>
+</resources>

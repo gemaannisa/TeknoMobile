@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="info" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7dc3b84-71c5-4365-96eb-d706cdd5784a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HitungVolume020/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyIntentApp020/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/java/com/example/mylistview020/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/java/com/example/mylistview020/HeroAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/._asset_pahlawan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._ahmad_dahlan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._ahmad_yani.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._bung_tomo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._gatot_subroto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._ki_hadjar_dewantara.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._mohammad_hatta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._sudirman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._sukarno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._supomo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._tan_malaka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/layout/item_hero.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HitungVolume020/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HitungVolume020/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HitungVolume020/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HitungVolume020/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HitungVolume020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyIntentApp020/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyIntentApp020/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyIntentApp020/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyIntentApp020/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyIntentApp020/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyIntentApp020/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyIntentApp020/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyIntentApp020/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyIntentApp020/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyIntentApp020/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyIntentApp020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyIntentApp020/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="HP_Saya" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iJDktNomPA8ce6oD1Ot6iAzPrc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="HP_Saya" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-02T07:35:45.025Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="?" />
+      <command value="open Hello World 1817051020" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7dc3b84-71c5-4365-96eb-d706cdd5784a" name="Default Changelist" comment="" />
+      <created>1601616948193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601616948193</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="0" key="#app" timestamp="1601636767087">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="0" key="#app/0.0.1280.680@0.0.1280.680" timestamp="1601636767087" />
+    <state x="500" y="154" key="AndroidCreateXmlResourceDialog" timestamp="1603241892439">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="500" y="154" key="AndroidCreateXmlResourceDialog/0.0.1280.680@0.0.1280.680" timestamp="1603241892439" />
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom" timestamp="1601620943753">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601620943753" />
+    <state width="1236" height="163" key="GridCell.Tab.0.center" timestamp="1601620943751">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601620943751" />
+    <state width="1236" height="163" key="GridCell.Tab.0.left" timestamp="1601620943750">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601620943750" />
+    <state width="1236" height="163" key="GridCell.Tab.0.right" timestamp="1601620943751">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601620943751" />
+    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601620918328">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.680@0.0.1280.680" timestamp="1601620918328" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1602210663474">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1602210663474" />
+    <state x="298" y="151" width="672" height="677" key="run.anything.popup" timestamp="1601620670247">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="298" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1601620670247" />
+  </component>
+</project>

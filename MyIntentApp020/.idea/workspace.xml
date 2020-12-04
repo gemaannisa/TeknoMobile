@@ -7,43 +7,149 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5efac6c9-0d0d-40b3-8d4b-9408f6cbaab5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../HitungVolume020/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/java/com/example/mylistview020/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/java/com/example/mylistview020/HeroAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/._asset_pahlawan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._ahmad_dahlan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._ahmad_yani.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._bung_tomo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._gatot_subroto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._ki_hadjar_dewantara.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._mohammad_hatta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._sudirman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._sukarno.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._supomo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/drawable/__MACOSX/asset_pahlawan/._tan_malaka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyListView020/app/src/main/res/layout/item_hero.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HitungVolume020/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/androidTest/java/com/example/myactionbar/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/java/com/example/myactionbar/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/java/com/example/myactionbar/MenuActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/java/com/example/myactionbar/MenuFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/layout/activity_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/layout/fragment_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/menu/options_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/app/src/test/java/com/example/myactionbar/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyActionBar/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/androidTest/java/com/example/trme/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/java/com/example/trme/CreateToDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/java/com/example/trme/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/java/com/example/trme/OptionsMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/java/com/example/trme/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/java/com/example/trme/SplashScreenActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/java/com/example/trme/TaskDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/drawable/baseline_search_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/drawable/ic_add_circle_white_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/drawable/ic_add_task_white_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/drawable/ic_alarm_add_white_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/drawable/ic_announcement_white_24px.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/drawable/ic_event_available_white_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/drawable/ic_search_white_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/drawable/ic_splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/drawable/ic_splash_screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/layout/activity_create_to_do.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/layout/activity_options_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/layout/activity_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/layout/activity_splash_screen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/layout/fragment_task_desc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/menu/options_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/app/src/test/java/com/example/trme/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRme/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HitungVolume020/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HitungVolume020/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HitungVolume020/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HitungVolume020/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HitungVolume020/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HitungVolume020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HitungVolume020/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment020/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView020/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListView020/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView020/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListView020/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView020/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListView020/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView020/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListView020/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListView020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/project_dex_archive/debug/out/b9e8175a724a836f00b3017d8583dbc2941e71637bd3dbccf403f21ffa9306c0_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/project_dex_archive/debug/out/b9e8175a724a836f00b3017d8583dbc2941e71637bd3dbccf403f21ffa9306c0_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/project_dex_archive/debug/out/b9e8175a724a836f00b3017d8583dbc2941e71637bd3dbccf403f21ffa9306c0_2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/project_dex_archive/debug/out/b9e8175a724a836f00b3017d8583dbc2941e71637bd3dbccf403f21ffa9306c0_3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews/app/src/main/res/values/styles.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,6 +280,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="548" y="0" key="#app" timestamp="1605416142404">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="548" y="0" key="#app/0.0.1280.680@0.0.1280.680" timestamp="1605416142404" />
     <state x="59" y="87" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1602338159476">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
